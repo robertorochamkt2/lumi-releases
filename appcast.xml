@@ -3,6 +3,14 @@
   <channel>
     <title>Lumi</title>
     <item>
+      <title>Version 1.3.8</title>
+      <pubDate>Thu, 24 Sep 2026 21:00:15 -0000</pubDate>
+      <sparkle:version>1.3.8</sparkle:version>
+      <sparkle:shortVersionString>1.3.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/robertorochamkt2/lumi-releases/releases/download/v1.3.8/Lumi-1.3.8-mac.dmg" type="application/octet-stream" length="3803541" sparkle:edSignature="pRV1Ugc41PnU1yysAcosq6dDXN939CUrp4XzLZsDoE8KRAZVQJMhR6kvwy0rxaRaxeWUMXoCFGwl0XOQr+6aBg==" />
+    </item>
+    <item>
       <title>Version 1.3.6</title>
       <pubDate>Wed, 16 Sep 2026 16:54:21 -0000</pubDate>
       <sparkle:version>1.3.6</sparkle:version>
